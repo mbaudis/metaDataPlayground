@@ -1,4 +1,5 @@
-{
+[
+	{
   ”dx”:”colorectal adenocarcinoma, splenic flexure, Dukes C”, 
   ”dxDate”:”2013-08-24”,
   “dxClassification”:
@@ -53,3 +54,4 @@
 },
 			]
 }
+]
