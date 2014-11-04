@@ -33,20 +33,20 @@
     ”ontologyText”:null,
     },
     {
-“ontologySource”:”Dukes”,
-”ontologyVersion”:null,
-”code”:”C”,
-”text”:null,
-}
-]
+    “ontologySource”:”Dukes”,
+    ”ontologyVersion”:null,
+    ”code”:”C”,
+    ”text”:null,
+    }
+  ]
 },
 {
-”dx”:”chronic obstructive pulmonary disease”,
-”dxDate”:”2010-01-13”,
-“dxClassification”:
-	[
-{
-“ontologySource”:”WHO:ICD”,
+  ”dx”:”chronic obstructive pulmonary disease”,
+  ”dxDate”:”2010-01-13”,
+  “dxClassification”:
+  [
+    {
+    	“ontologySource”:”WHO:ICD”,
 ”ontologyVersion”:”10”,
 ”text”:”Chronic obstructive pulmonary disease, unspecified”,
 “id”:”J44.9”,
